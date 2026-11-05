@@ -1,8 +1,7 @@
 # Preproposal
 
 ## What idea(s) do you have for your final project?
-
-Quantem tic-tac-toe
+infinite tic-tac-toe
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
